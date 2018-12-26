@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Git, Teamwork, Postgres, Mysql, C#, Java, PHP, Android, Laravel
-percentage: 100, 35, 65, 80, 70, 90, 50, 85
+aspects: Git, Teamwork, Postgres, Mysql, C#, Java, PHP, Android, Laravel,
+percentage: 87, 90, 80, 80, 80, 85, 80, 85
