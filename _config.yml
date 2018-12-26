@@ -2,7 +2,7 @@
 
 # Website settings
 title: darteaga94
-description: Jack's blog,use Jekyll and github pages.
+description: Dinier's blog,use Jekyll and github pages.
 keywords: Jack,Jalpc,blog,Jekyll,github,gh-pages
 baseurl:
 url: http://www.jarrekk.com
@@ -11,15 +11,15 @@ img_path: /static/assets/img/blog
 
 # author
 author:
-  name: Jarrekk
-  first_name: Kun
-  last_name: Jia
+  name: darteaga94
+  first_name: Dinier
+  last_name: Arteaga Miranda
   cv: http://cv.jarrekk.com
-  email: me@jarrekk.com
-  facebook_username: jiakunnj
-  github_username: jarrekk
-  linkedin_id: jarrekk
-  avatar: /static/assets/img/landing/Jack.jpeg
+  email: darteaga94@gmail.com
+  facebook_username: darteaga94
+  github_username: darteaga94
+  linkedin_id: darteaga94
+  avatar: https://github.com/account
   skill_icon1:
     - name: icon-python
     - name: icon-shell
