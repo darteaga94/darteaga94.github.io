@@ -7,7 +7,7 @@ keywords: Jack,Jalpc,blog,Jekyll,github,gh-pages
 baseurl:
 url: http://www.jarrekk.com
 # url: http://127.0.0.1:4000
-img_path: https://github.com/account
+img_path: https://avatars1.githubusercontent.com/u/7543761?s=460&v=4
 
 # author
 author:
@@ -19,7 +19,7 @@ author:
   facebook_username: darteaga94
   github_username: darteaga94
   linkedin_id: darteaga94
-  avatar: https://github.com/account
+  avatar: https://avatars1.githubusercontent.com/u/7543761?s=460&v=4
   skill_icon1:
     - name: icon-python
     - name: icon-shell
